@@ -1,6 +1,6 @@
 # hello-world-jv
 
-this is just another repo
+This is just another repo
 
 wow we're learning github
 
@@ -13,3 +13,5 @@ jv
 jv
 
 jv
+
+I can't believe I'm learning this
